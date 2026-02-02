@@ -44,13 +44,10 @@ This project is designed to help understand heap operations through dynamic visu
    - Tree structure
    - Bar visualization
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a8fce7d8-f79d-467b-a5f0-10f7876b92ce" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7d1a5389-165e-4751-8b75-60683002ed86" />
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93d953af-4a42-4473-ba33-578a59e1ea77" />
 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/520945a7-ee27-4ff7-b993-9405809bdc36" />
 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d0cd54e-0461-46b2-89ae-7f99eca7fc49" />
