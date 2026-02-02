@@ -1,6 +1,5 @@
 # Heap-sort-algorithm-using-HTML-CSS-JAVASCRIPT-and-Python-flask
-An interactive full-stack web app that visualizes Heap Sort in real time using array, tree, and bar representations, powered by a Flask backend and a modern Tailwind CSS UI.
-# Heap Sort Visualizer
+ 
 
 An interactive full-stack web application that visualizes the Heap Sort algorithm in real time.  
 This project is designed to help understand heap operations through dynamic visual feedback using multiple representations.
